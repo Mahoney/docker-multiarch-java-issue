@@ -1,0 +1,19 @@
+# Local build
+**/out/
+
+# Git
+/.git/
+.gitignore
+
+# IntelliJ
+/.idea/
+
+# macOS
+**/.DS_Store
+
+# GitHub
+/.github/
+
+# Docker
+Dockerfile
+.dockerignore
